@@ -1,5 +1,6 @@
 1) What are comments?
 
+comments are lines that arne't read by the interpreters. 
 
 2) Demonstrate at least 2 ways to create a comment. One should be for multiple lines.
 
