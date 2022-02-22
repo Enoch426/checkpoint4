@@ -4,6 +4,7 @@ comments are lines that arne't read by the interpreters.
 
 2) Demonstrate at least 2 ways to create a comment. One should be for multiple lines.
 
+you can make comments on the commit section of git. or you can make comment on a file. 
 
 3) If the name of a file is app.py what do we type in the command line to tell our computer to run it?
 
