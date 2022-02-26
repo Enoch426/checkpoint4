@@ -29,6 +29,13 @@ turning variables into comments , thierby nulling them, is also another method t
 
 6) What can I do to prevent certain files and directories from being tracked by git?
 
+You can make Git ignore certain files and directories -- that is , exlude them from being 
+tracked by git -- by creating one or more " .gitignore" files in your repository.
+
+when a file or a directory is ignored it will not be:
+tracked by Git 
+Reported by commands such as git status or git diff
+staged with commands suchs as git add -A
 
 7) What can be used in order to repeat some block of code? Provide 2 examples.
 
