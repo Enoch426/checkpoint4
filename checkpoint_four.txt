@@ -39,6 +39,24 @@ staged with commands suchs as git add -A
 
 7) What can be used in order to repeat some block of code? Provide 2 examples.
 
+a while loop and a for loop 
+
+ex.
+    name = input("what is your name?")
+    endprogram == (quit)
+    answer = ("wow cool name!!)
+    answer2 = ("oh that alright I guess!")
+
+
+while name == ("Enoch")
+        print(answer)
+        print(name)
+    if name != ("enoch)
+        print(answer2)
+        print(endprogam)
+
+
+
 
 8) When saving a value for later use what type of operator do we use?
 
