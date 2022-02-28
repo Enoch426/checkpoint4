@@ -150,6 +150,10 @@ Ron is on index 0 and Martha is index 2
 
 19) What does frontend / client side mean?
 
+Front-end web development, or client-side development, iis the practice of producing 
+HTML, CSS, and JavaScript for a website or Web Application 
+so that a user can see and intercat with them directly. 
+
 
 20) What does backend / server side mean?
 
