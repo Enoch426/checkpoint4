@@ -113,8 +113,13 @@ Types such as strings and number are acceptable, even tuples.
 
 14) What type of values can be in a Python list?
 
+Integers  1234
+Floats    123.4
+Lists     [1,2,3,"4"]
+tuples    (1,2,3,"4")
 
 15) What data type are True and False?
+
 
 
 16) What language does your computer understand?
