@@ -107,6 +107,9 @@ MLB_team = {
 
 13) What type of values can be in a Python dictionary?
 
+The values of a dictionary can be any type
+The keys must be of an immutable data type howover 
+Types such as strings and number are acceptable, even tuples. 
 
 14) What type of values can be in a Python list?
 
