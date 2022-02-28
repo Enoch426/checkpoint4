@@ -64,6 +64,9 @@ a simple assingment opperator "="
 
 9) What's the key difference between git revert and git reset?
 
+git revert stores the reverted file incase they still want to use it again
+
+git reset completely wipes out the file the previous file and will not be able to come back
 
 10) What's the key difference between Python lists and tuples?
 
