@@ -157,6 +157,7 @@ so that a user can see and intercat with them directly.
 
 20) What does backend / server side mean?
 
+back end or server side is how the site works, updates and changes as far as database and servers. 
 
 21) What are 3 way to create a Python string?
 
