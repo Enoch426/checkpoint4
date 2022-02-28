@@ -85,6 +85,25 @@ to see commmits you have done in git, but just a short snippet of the data, use 
 
 12) Describe the anatomy of a Python dictionary and create one below.
 
+Dictionaries are python's way of making a data structure that is more generally known as an associative array
+a dictionary is a collection of key-value pairs, each key-value pair bieng paired to its associated value. 
+d = {
+    <key>: <value>,
+    <key>: <value>,
+      .
+      .
+      .
+    <key>: <value>
+}
+
+MLB_team = {
+...     'Colorado' : 'Rockies',
+...     'Boston'   : 'Red Sox',
+...     'Minnesota': 'Twins',
+...     'Milwaukee': 'Brewers',
+...     'Seattle'  : 'Mariners'
+... }
+
 
 13) What type of values can be in a Python dictionary?
 
