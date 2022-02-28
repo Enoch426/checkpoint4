@@ -120,7 +120,16 @@ tuples    (1,2,3,"4")
 
 15) What data type are True and False?
 
+Boolean data type  
 
+s = (1)
+q = (quit)
+while s != (false)
+    print(s)
+        s +1 
+elif s == 6
+    s == (false)
+    print(q)
 
 16) What language does your computer understand?
 
