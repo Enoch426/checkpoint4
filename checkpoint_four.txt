@@ -70,6 +70,12 @@ git reset completely wipes out the file the previous file and will not be able t
 
 10) What's the key difference between Python lists and tuples?
 
+Lists and Tuples are type of containers in Data Structures 
+
+ex. i = ("2", "3", "4", "five")
+
+while the tuples are immutable objects the lists are mutable. 
+This means tuples cannot be changed while the lists can be modified
 
 11) What can I do to know where I am within my file system?
 
