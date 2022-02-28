@@ -139,6 +139,8 @@ Machine language gives instructions as 0's and 1's and is the only language that
 
 17) What do we need in order for your computer to make use of programming languages?
 
+to make a computer "understand" high level programming language, you need a complier or an interpreter. 
+these are programs that translate a high-level programming languages into the language of low-level instructions. 
 
 18) At what index is your instructor's name located in this list? ["Ron", "Troy", "Martha"]
 
