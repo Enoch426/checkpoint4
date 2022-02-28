@@ -79,6 +79,9 @@ This means tuples cannot be changed while the lists can be modified
 
 11) What can I do to know where I am within my file system?
 
+to see where you are in the file system, use pwd 
+to see which branch your in on git, use git branch 
+to see commmits you have done in git, but just a short snippet of the data, use git log --oneline
 
 12) Describe the anatomy of a Python dictionary and create one below.
 
