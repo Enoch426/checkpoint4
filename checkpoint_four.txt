@@ -133,6 +133,9 @@ elif s == 6
 
 16) What language does your computer understand?
 
+Machine language
+
+Machine language gives instructions as 0's and 1's and is the only language that the computer understands.
 
 17) What do we need in order for your computer to make use of programming languages?
 
