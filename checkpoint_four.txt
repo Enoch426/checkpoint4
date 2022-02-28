@@ -144,6 +144,9 @@ these are programs that translate a high-level programming languages into the la
 
 18) At what index is your instructor's name located in this list? ["Ron", "Troy", "Martha"]
 
+its on index 1 
+indexes start from 0 
+Ron is on index 0 and Martha is index 2
 
 19) What does frontend / client side mean?
 
